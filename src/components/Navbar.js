@@ -8,7 +8,7 @@ const Navbar = props => {
         <a className=" brand-logo">React is cool</a>
         <ul className="right">
           <li>
-            <Link to="/">Homes</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <NavLink to="/about">About</NavLink>
